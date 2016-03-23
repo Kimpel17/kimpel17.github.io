@@ -1,41 +1,26 @@
-Free simple-product website template
-Light and simple responsive website template, designed by cssauthor.com
-###### Powered by html5, css3 and less css. Also used simple lesscss fluid grid.
-More about this grid [here](https://github.com/orlovmax/fluid-less-grid)
-###### Compatible Browsers: IE8+, Firefox, Chrome, Opera, Safari, Yandex.browser
+# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
-## Quick start
-Actually this example is ready to use (build version), all dependencies already installed. But for further development you should use grunt and bower, see more details about installation grunt [here](https://github.com/orlovmax/front-end-scaffold#how-to-start) and about bower [here](https://github.com/orlovmax/front-end-scaffold#bower)
+[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
-To compile this project, please run the following:
+## Getting Started
 
-* `npm install` - install grunt packages
-* `bower install` - install dependencies
-    - `grunt bower-dev` - compile dependencies and remove bower_components folder
-* `grunt` - default task, compile project files
+To use this theme, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
-To create build version, please run build task:
-* `grunt build`
+## Bugs and Issues
 
-### Structure
-This project based on [frontend-scaffold](https://github.com/orlovmax/front-end-scaffold):
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
 
-`/dev/` folder - contains source code.
+## Creator
 
-`/build/` folder - contain ready-to-use build version.
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-##Demo
-You can see live demo here: [http://orlovmax.com/freebies/simple-product_website-template](http://orlovmax.com/freebies/simple-product_website-template "simple-product website live demo")
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-Please note
----
-In reset.css most of elements `box-sizing` sets to `border-box`. 
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-##Screenshots
-**You can see more screenshots [here](screenshots/)**
+## Copyright and License
 
-![Mockup demo](screenshots/pic.jpg)
-Product mockup created with [http://frame.lab25.co.uk/](http://frame.lab25.co.uk/)
-
-## License
-[MIT](http://opensource.org/licenses/MIT)
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.
